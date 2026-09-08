@@ -16,7 +16,8 @@ Análisis de Datos · Business Intelligence · Arquitectura de Datos & Cloud
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-quezada-avila-638371389/)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/gabriel.quezada5584/vizzes)
 [![Email](https://img.shields.io/badge/Email-gabrielqva.10@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielqva.10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-quezarbelia-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/quezarbelia)
 
@@ -74,7 +75,7 @@ Aplico la misma disciplina y precisión requeridas en la **ingeniería de audio 
       <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Git_&_CI/CD-F05032?style=for-the-badge&logo=git&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -88,7 +89,7 @@ Aplico la misma disciplina y precisión requeridas en la **ingeniería de audio 
 | Categoría | Tecnologías & Herramientas |
 | :--- | :--- |
 | **Visualización & BI** | Power BI Desktop & Service · Tableau Server & Desktop · Excel Avanzado (Power Query, Modelos, Macros) |
-| **Bases de Datos & SQL** | Oracle Database (Administración DBA / PL-SQL) · PostgreSQL · MySQL · SQLite · DBeaver |
+| **Bases de Datos & SQL** | Oracle Database (Administración DBA / PL-SQL) · PostgreSQL · MySQL · SQLite |
 | **Ecosistema Cloud & Fabric** | Microsoft Fabric (OneLake, Data Factory) · Google Cloud Platform (BigQuery, Storage) · AWS (S3, Redshift) |
 | **Ingeniería & Código** | Python (Pandas, NumPy, SQLAlchemy) · Scripts Bash · Automatización ETL / ELT |
 | **Sistemas & Control** | Ubuntu Linux Server · Git · GitHub Actions · Visual Studio Code |
