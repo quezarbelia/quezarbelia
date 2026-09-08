@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=GABRIEL%20QUEZADA%20AVILA&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Ingeniero%20en%20Inform%C3%A1tica%20%C2%B7%20Data%20Analytics%20%C2%B7%20Business%20Intelligence&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+
 ```
  ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗
 ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║
@@ -10,7 +12,7 @@
 ```
 
 <a href="https://github.com/quezarbelia">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Gabriel+Quezada+Avila;Ingeniero+en+Inform%C3%A1tica+%C2%B7+UPIICSA+IPN;Data+Analytics+%C2%B7+Business+Intelligence;Arquitectura+de+Datos+%26+Cloud+Management;Power+BI+%C2%B7+Tableau+%C2%B7+Fabric+%C2%B7+Oracle;Real-Time+DSP+%26+Audio+Signal+Processing" alt="Gabriel Quezada - Terminal Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Gabriel+Quezada+Avila;Ingeniero+en+Inform%C3%A1tica+%C2%B7+UPIICSA+IPN;Data+Analytics+%C2%B7+Business+Intelligence;Arquitectura+de+Datos+%26+Cloud+Management;Power+BI+%C2%B7+Tableau+Server+%C2%B7+Fabric;Oracle+DBA+%C2%B7+PostgreSQL+%C2%B7+SQL+Avanzado;ETL+Pipelines+%C2%B7+Python+Automation" alt="Gabriel Quezada - Typing Title" />
 </a>
 
 <br><br>
@@ -32,6 +34,10 @@
 
 ## `> whoami`
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=800&color=38D9A9&center=true&vCenter=true&width=620&lines=%24+whoami+--role%3Ddata_analyst_and_engineer;%24+fetch_profile+--status%3Davailable_for_strategic_impact;%24+connect_cluster+--integrity%3DACID+--latency%3Dlow" alt="Terminal Prompt Animation" />
+</div>
+
 ```yaml
 nombre       : Gabriel Quezada Avila
 título       : Ingeniero en Informática
@@ -42,9 +48,9 @@ ubicación    : Ciudad de México, MX
 zona_horaria : America/Mexico_City (UTC-6)
 ```
 
-Diseño e implemento soluciones centradas en el ciclo de vida del dato: desde la extracción, depuración y modelado relacional hasta la orquestación en la nube y visualización ejecutiva en tableros de BI.
+Diseño e implemento soluciones analíticas de alto impacto cubriendo todo el ciclo de vida del dato: desde la extracción, depuración y modelado relacional hasta la orquestación en la nube y visualización ejecutiva en tableros de BI.
 
-Aplico la misma disciplina y precisión requeridas en la **ingeniería de audio y procesamiento de señales en tiempo real** —donde la latencia crítica y la consistencia no admiten margen de error— a la gobernanza, optimización y arquitectura de datos.
+Especializado en la optimización de consultas complejas, diseño de esquemas estrella y copo de nieve, y construcción de canalizaciones automatizadas que garantizan alta disponibilidad, consistencia ACID y mínima latencia de respuesta para la toma de decisiones directivas.
 
 ---
 
@@ -110,6 +116,12 @@ Aplico la misma disciplina y precisión requeridas en la **ingeniería de audio 
 
 <br>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=%E2%96%B6+%5BETL%5D+Extrayendo+datos+operativos+desde+Oracle+%26+PostgreSQL...;%E2%96%B6+%5BTRANSFORM%5D+Limpieza%2C+normalizaci%C3%B3n+y+c%C3%A1lculos+con+Python...;%E2%96%B6+%5BLOAD%5D+Cargando+modelo+dimensional+en+Microsoft+Fabric+%26+Cloud...;%E2%96%B6+%5BBI%5D+Refrescando+modelos+sem%C3%A1nticos+Power+BI+%26+Tableau...;%E2%9C%94+%5BOK%5D+M%C3%A9tricas+y+KPIs+financieros+disponibles+en+tiempo+real." alt="Data Pipeline Simulation" />
+</div>
+
+<br>
+
 > *Arquitectura analítica integral para la ingesta, limpieza, modelado relacional y presentación de métricas financieras clave en tiempo real.*
 
 ```
@@ -149,33 +161,6 @@ Aplico la misma disciplina y precisión requeridas en la **ingeniería de audio 
 
 ---
 
-## `> audio_engineering --signal_processing`
-
-### 🎛️ Ingeniería de Audio en Vivo & Procesamiento de Señales
-
-La ejecución técnica y la ingeniería de audio comparten principios directos con la arquitectura de datos y sistemas:
-
-| Principio de Audio Digital | Equivalente en Ingeniería de Datos |
-| :--- | :--- |
-| **Latencia de buffer & sincronización** | Optimización de tiempos de respuesta, throughput y pipelines streaming |
-| **Procesamiento de señal en tiempo real** | Ingesta de datos asíncrona y flujos continuos sin bloqueo |
-| **Cadena de señal y ruteo** | Arquitectura de servicios, middleware y canalizaciones ETL |
-| **Mezcla balanceada y ecualización** | Limpieza, estandarización y normalización de datasets crudos |
-| **Ejecución en vivo (sin margen de fallo)** | Disponibilidad crítica, integridad referencial y monitoreo de datos en producción |
-
-> *La disciplina de controlar mezclas y flujos de señal complejos en vivo refuerza la meticulosidad y el rigor requeridos al operar bases de datos y pipelines de producción.*
-
-<div align="center">
-
-![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=flat-square&logo=abletonlive&logoColor=white)
-![Digital Signal Processing](https://img.shields.io/badge/Real--Time_DSP-4A4A4A?style=flat-square&logo=protools&logoColor=white)
-![Signal Routing](https://img.shields.io/badge/Signal_Routing_%26_Patchbay-007ACC?style=flat-square)
-![Hardware Systems](https://img.shields.io/badge/Live_Mixing_Consoles-333333?style=flat-square)
-
-</div>
-
----
-
 ## `> analytics --metrics_overview`
 
 <div align="center">
@@ -186,7 +171,7 @@ La ejecución técnica y la ingeniería de audio comparten principios directos c
 | **Bases de Datos & SQL** | Oracle (DBA / PL-SQL) · PostgreSQL | Esquemas relacionales con integridad referencial ACID y consultas optimizadas |
 | **ETL & Data Pipelines** | Python (Pandas) · Microsoft Fabric | Limpieza, estandarización y normalización automatizada de fuentes heterogéneas |
 | **Cloud Analytics** | Google Cloud Platform · AWS S3 / Redshift | Almacenamiento analítico escalable y arquitecturas data-driven en la nube |
-| **Signal & Audio DSP** | Procesamiento en vivo (< 5ms latencia) | Rigor operativo de cero margen de error trasladado a sistemas de producción |
+| **Gobernanza & Calidad** | Modelado Dimensional (Star/Snowflake) | Cumplimiento de reglas de negocio, trazabilidad y consistencia de datos |
 
 </div>
 
@@ -211,11 +196,22 @@ La ejecución técnica y la ingeniería de audio comparten principios directos c
 <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quezarbelia&theme=github_dark" alt="Profile Details" />
 <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quezarbelia&theme=github_dark" alt="Commit Language Breakdown" />
 
+<br><br>
+
+<!-- Animación Snake de Contribuciones -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quezarbelia/quezarbelia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quezarbelia/quezarbelia/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/quezarbelia/quezarbelia/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 **`< Gabriel Quezada Avila · Ingeniero en Informática />`**
 
